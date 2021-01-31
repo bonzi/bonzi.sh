@@ -1,6 +1,6 @@
 ---
 title: Game UK's POS system, A perspective.
-tags: ["Point of Sale", "POS", "Game UK"]
+tags: "Point of Sale", "POS", "Game UK"
 image: "https://f4.bcbits.com/img/a1818480888_16.jpg"
 description: My thoughts on Game UK's retail and online Point Of Sale system and the things that make it one of the best I know of
 ---
