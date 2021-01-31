@@ -1,0 +1,4 @@
+Contact: mailto:me@bonzi.sh
+Contact: https://twitter.com/bonzish
+Preferred-Languages: en
+Canonical: https://bonzi.sh/.well-known/security.txt
