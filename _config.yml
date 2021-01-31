@@ -23,7 +23,7 @@ dash:
   # generate social links in footer
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
   social_links:
-    - url: https://twitter.com/lordbonzi
+    - url: https://twitter.com/bonzish
       icon: twitter-square
       color: cyan
     - url: https://github.com/bonzi
@@ -47,3 +47,5 @@ plugins:
 # Replaces the default avatar provider (gravatar)
 avatar_source: github
 github_username: bonzi
+
+cf_analytics: true
